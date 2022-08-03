@@ -11,4 +11,6 @@ img = cv2.imread('edd.png') # load image
 img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB) # convert image to RGB
 
 decoded = pyzbar.decode(img)
-print(decoded)
+#print(decoded)
+
+##teez
